@@ -1,0 +1,5 @@
+# sshex 设置
+provider=DeepSeek
+base_url=https://api.deepseek.com
+api_key=sk-619fcf5eb4f64f21b9b45aaa542ba3a3
+model=deepseek-flash
